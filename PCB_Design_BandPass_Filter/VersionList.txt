@@ -1,0 +1,20 @@
+22.05.2021, Vinod Kumar Kanchi
+------------------------
+
+
+Note: Every Version gets an entry, explaining their stpeciality. e.g.:
+
+15.03.2021 - Astabel Multivibrarot, Vesion 1.0
+------------------------------------------------
+Feature: Single Supply Version, Four layer PCB
+
+
+Radar_1v1.0
+
+ Inital layout
+
+Radar_1v1.1
+ Changed a few resources after review by Prof. Hubrich. 
+ Changed With long track from Radar sensor to capacitor,Resistor, capacitor and to Amplifier ---- Now having comparitable short track from Radar sensor to capacitor,resistor and amplifier.
+ Track on 5V power plane --- Made 5V power plane on layer 2. Elimanted track from P1 to P4 pin 6 and 7.
+ Rearranged few components.
